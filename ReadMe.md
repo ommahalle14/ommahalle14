@@ -1,12 +1,196 @@
-# 💫 About Me:
-## 🚀 About Me<br><br>Hi, I'm Om Mahalle, a Computer Science undergraduate at COEP Technological University.<br><br>I enjoy building scalable web applications, solving data structures and algorithms problems, and exploring AI-powered automation. I believe in learning by building, which is why most of my repositories are hands-on projects rather than tutorial code.<br><br>### 💻 Currently Working On<br>- Full Stack Web Development (MERN)<br>- AI Agents & Workflow Automation using n8n<br>- Data Structures & Algorithms<br>- Java and Backend Development<br><br>### 🛠 Tech Stack<br>- Languages: C, C++, Java, JavaScript<br>- Frontend: HTML, CSS, React<br>- Backend: Node.js, Express.js<br>- Database: MongoDB<br>- Tools: Git, GitHub, VS Code, Postman, n8n<br><br>### 📚 What You'll Find Here<br>- Full Stack Projects<br>- Frontend UI Implementations<br>- DSA Solutions<br>- Java Programs<br>- Automation Workflows<br>- College Projects<br>- Continuous Learning Experiments<br><br>I believe consistency beats intensity. Every project here represents another step toward becoming a better software engineer.
+<h2 align="center"> About</h2>
+
+<p align="justify">
+I am deeply passionate about software development, not just writing code but understanding the systems and ideas behind it. I enjoy learning new technologies, building real-world projects, and solving challenging problems that push my technical limits. I believe consistent learning and practical application are the keys to becoming a strong engineer.
+</p>
+
+<br>
+
+<table align="center">
+  <tr>
+    <td width="65%">
+      <div align="center">
+        <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=0969DA&size=28&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Problem+Solver;Learning+Computer+Science;CyberSecurity+Enthusiast" />
+      </div>
+
+<p align="justify">
+My goal is to become a Software Engineer who transforms ideas into scalable, efficient, and meaningful solutions that solve real-world problems. I believe It takes 10,000 hours to become a good programmer.
+</p>
+
+<p>
+<b>Degree:</b> B.Tech CSE <br>
+<b>Email:</b> mahalleom14@gmail.com<br>
+<b>LinkedIn: <a href="www.linkedin.com/in/om-mahalle-696458334" target="blank">OM MAHALLE</b> 
+</p>
+    </td>
+    <td align="center" width="35%">
+      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" style="border-radius:10 px;" height=200 />
+    </td>
+  </tr>
+</table>
+<h2 align="center"> Statistics </h2>
+<table>
+<tr> 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ommahalle14&theme=transparent" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ommahalle14&theme=transparent&hide_border=true" height="160"/>
+</p>
+</tr>
+
+<tr> 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ommahalle14&theme=transparent" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BhaveshGadling77&langs_count=20&show_icons=true&locale=en&layout=compact&theme=transparent" height="160">
+</p>
+</tr> 
+<tr>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ommahalle14&bg_color=transparent&color=58A6FF&line=58A6FF&point=1f6feb&area=true&area_color=58A6FF20&hide_border=true&custom_title=Bhavesh%20Gadling%20Contribution%20Graph" />
+  
+</p>
+</tr>
+
+<tr> 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ommahalle14&theme=transparent"/>
+</p>
+</tr> 
+</table>
+
+<h2 align="center"> Tech Stack & Developer Tools </h2>
+<h3 align="center">🧠 Programming Languages</h3>
+<table align="center">
+<tr>
+<table align="center">
+<tr>
+<td align="center" width="120">
+<img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="48"/>
+<br><b>C++</b>
+</td>
+<td align="center" width="120">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" width="48"/>
+<br><b>Java</b>
+</td>
+<td align="center" width="120">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="48"/>
+<br><b>Python</b>
+</td>
+<td align="center" width="120">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="48"/>
+<br><b>JavaScript</b>
+<tr>
+
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="48"/>
+<br><b>C</b>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
+<br><strong>HTML5</strong>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" />
+<br><strong>CSS3</strong>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="50" height="50" />
+<br><strong>R</strong>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50" />
+<br><strong>SQL</strong>
+</td>
+</table>
+</tr>
+</table>
+<h3 align="center">⚙️ Frameworks & Libraries</h3>
+
+<table align="center">
+<tr>
+<td align="center" width="120">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="48"/>
+<br><b>React</b>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48"/>
+<br><b>Node.js</b>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48"/>
+<br><b>Express.js</b>
+</td>
+<td align="center" width="120"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg" width="48"/>
+<br><b>Framer motion</b>
+</td>
+<td align="center" width="120">
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48"/>
+<br><b>Tailwind CSS</b>
+</td>
+</tr>
+</table>
+
+<h3 align="center">🗄️ Databases</h3>
+<table align="center">
+<tr align="center">
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48"/>
+<br><strong>MongoDB</strong>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" />
+<br><strong>PostgreSQL</strong>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48"/>
+<br><strong>MySQL</strong>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Cloud Firestore" width="48"/>
+<br><strong>Firestore</strong>
+</td>
+</tr>
+</table>
+
+<h3 align="center">🛠️ Development Tools</h3>
+
+<table align="center">
+<tr>
+<td align="center" width="120">
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="48"/>
+<br><b>Bash</b>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48"/>
+<br><b>Linux</b>
+</td>
+<td align="center" width="120">
+<img src="https://www.vectorlogo.zone/logos/vim/vim-icon.svg" width="48"/>
+<br><b>Vim</b>
+</td>
+<td align="center" width="120">
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="48"/>
+<br><b>VS Code</b>
+</td>
+<td align="center" width="120">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48"/>
+<br><b>Git</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="120">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="48"/>
+ <br><b> Postman</b>
+</td>
+<td align="center" width="120">
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="48"/>
+          
+ <br><b> Intellij</b>
+</td>
+</tr>
+</table>
 
 
-## 🌐 Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/ommahalle14) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/0m_mahalle_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/om-mahalle-696458334) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vilasmo24.comp@coeptech.ac.in) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 #snake 
 <div align="center">
@@ -15,19 +199,8 @@
 
 
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ommahalle14&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ommahalle14&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ommahalle14&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ommahalle14&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://komarev.com/ghpvc/?username=ommahalle14&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
